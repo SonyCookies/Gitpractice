@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         println("change 4")
         println("ddeeed")
         println("Hello from your friend.")
+        println("Hello tanga")
     }
 }
